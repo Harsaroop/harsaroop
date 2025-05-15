@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate Machine Learning and DevOps Engineer with a love for automation, continuous integration, and continuous delivery, AI and Machine learning. With 4 years of experience in the field, I've honed my skills in building robust CI/CD pipelines, managing cloud infrastructure, optimizing development workflows, building and deploying Machine Learning Models. (ADHD makes me want to do everything) 
+Full-stack senior software developer with over 4 years of experience delivering robust, end-to-end solutions across industries including banking, public sector, consulting, and manufacturing. Proven expertise in leading technical initiatives, building scalable cloud-native applications, and integrating AI-driven features to enhance performance and user engagement.
+
+<!-- I'm a passionate Machine Learning and DevOps Engineer with a love for automation, continuous integration, and continuous delivery, AI and Machine learning. With 4 years of experience in the field, I've honed my skills in building robust CI/CD pipelines, managing cloud infrastructure, optimizing development workflows, building and deploying Machine Learning Models. (ADHD makes me want to do everything) -->
 
 ## 🛠️ Technologies & Tools
 
